@@ -169,25 +169,7 @@ export function CustomQuote() {
               className="pointer-events-none absolute inset-0"
               style={{ backgroundImage: "var(--gradient-hero)" }}
             />
-            <div className="relative">
-              <h2 className="text-3xl font-extrabold text-balance sm:text-5xl">
-                Every Business Is{" "}
-                <span className="text-gradient">Different.</span>
-              </h2>
-              <p className="mx-auto mt-4 max-w-xl text-muted-foreground sm:text-lg">
-                Tell us what you need. We'll create a solution that fits your workflow and budget.
-              </p>
-              <div className="mt-8 flex flex-wrap justify-center gap-3">
-                <Btn asChild size="lg">
-                  <a href="#contact">Request a Free Quote</a>
-                </Btn>
-                <Btn asChild size="lg" variant="ghostGlass">
-                  <a href={CONTACT.whatsapp} target="_blank" rel="noreferrer">
-                    <MessageCircle /> Chat on WhatsApp
-                  </a>
-                </Btn>
-              </div>
-            </div>
+            
           </div>
         </Reveal>
       </div>
