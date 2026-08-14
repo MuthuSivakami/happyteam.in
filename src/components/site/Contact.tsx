@@ -158,24 +158,7 @@ export function Testimonials() {
 
 
 
-export function CustomQuote() {
-  return (
-    <section className="py-20">
-      <div className="mx-auto max-w-5xl px-4">
-        <Reveal>
-          <div className="glass relative overflow-hidden rounded-[2rem] px-6 py-14 text-center sm:px-12">
-            <div
-              aria-hidden
-              className="pointer-events-none absolute inset-0"
-              style={{ backgroundImage: "var(--gradient-hero)" }}
-            />
-            
-          </div>
-        </Reveal>
-      </div>
-    </section>
-  );
-}
+
 
 const needs = [
   "Website",
