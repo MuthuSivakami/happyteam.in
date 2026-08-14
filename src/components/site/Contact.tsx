@@ -154,12 +154,6 @@ export function Testimonials() {
   );
 }
 
-
-
-
-
-
-
 const needs = [
   "Website",
   "Billing Software",
