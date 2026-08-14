@@ -99,9 +99,7 @@ function Index() {
           <Projects />
         </Cinema>
         <Testimonials />
-        <Cinema>
-          <CustomQuote />
-        </Cinema>
+        
         <ContactSection />
       </main>
       <Footer />
