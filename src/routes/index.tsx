@@ -10,7 +10,6 @@ import { Packages } from "@/components/site/Packages";
 import { Why, Process, Industries, BeforeAfter } from "@/components/site/Why";
 import {
   Testimonials,
-  CustomQuote,
   ContactSection,
   WhatsAppFab,
   Footer,
