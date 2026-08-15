@@ -135,7 +135,6 @@ export function Testimonials() {
                     ))}
                   </div>
                   <p className="mt-2 text-sm font-bold break-words">{r.name}</p>
-                  <p className="text-xs break-words text-muted-foreground">{r.role}</p>
                 </figcaption>
               </figure>
             </Reveal>
