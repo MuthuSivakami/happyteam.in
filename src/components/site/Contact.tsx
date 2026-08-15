@@ -36,73 +36,63 @@ const testimonials = [
     quote:
       "Our billing used to take two people all evening. Now a bill takes ten seconds and the day's report is ready before we pull the shutter down.",
     name: "R. Muthukumar",
-    role: "Owner, Sri Amman Super Market · Nagercoil",
+   
   },
   {
     quote:
       "Fee collection, attendance and parent WhatsApp updates are finally in one place. They understood how a college actually runs before writing any code.",
     name: "Dr. S. Lakshmi Priya",
-    role: "Administrator, Arts & Science College · Madurai",
+    
   },
   {
     quote:
       "Payroll for 128 staff used to be a three-day spreadsheet job. It is now a single click with PF, ESI and payslips on WhatsApp.",
     name: "K. Saravanan",
-    role: "HR Manager, Spinning Mills · Coimbatore",
   },
   {
     quote:
       "Tooth chart, treatment history and reminders in one screen. Patient follow-ups doubled within three months.",
     name: "Dr. A. Jeyakumar",
-    role: "Smile Care Dental Clinic · Thuckalay",
   },
   {
     quote:
       "Batch-wise and expiry-wise billing saved us from huge losses. The near-expiry alert alone paid for the software.",
     name: "M. Fathima Beevi",
-    role: "Partner, Medical Store · Tirunelveli",
   },
   {
     quote:
       "Bookings, advance amounts and album delivery are all tracked now. No customer call is missed during wedding season.",
     name: "S. Vignesh",
-    role: "Vignesh Photo Studio · Kanyakumari",
   },
   {
     quote:
       "Size-wise stock for our textile showroom was impossible on paper. Now we know every design and size in one second.",
     name: "P. Kavitha",
-    role: "Sree Textiles · Tiruppur",
   },
   {
     quote:
       "Job cards, spare issue and service reminders run smoothly. Our workshop handles 40 vehicles a day without confusion.",
     name: "T. Arulmozhi",
-    role: "Auto Service Centre · Trichy",
   },
   {
     quote:
       "Gold rate entry in the morning and every bill is accurate all day. The chit scheme module is exactly what we wanted.",
     name: "V. Balamurugan",
-    role: "Jewellery Showroom · Thanjavur",
   },
   {
     quote:
       "Trip expenses, diesel and driver bhatta are clear now. We finally know the profit of every single load.",
     name: "A. Selvaraj",
-    role: "Transport Owner · Salem",
   },
   {
     quote:
       "Membership renewals go out automatically on WhatsApp. Our drop-outs came down and collections went up.",
     name: "J. Divya Bharathi",
-    role: "Fitness Studio · Chennai",
   },
   {
     quote:
       "They built exactly what we asked for and stayed available after launch. That support is the real reason we recommend them.",
     name: "N. Ramachandran",
-    role: "Trustee, Charitable Trust · Erode",
   },
 ];
 
